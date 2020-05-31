@@ -19,6 +19,7 @@ class ResultViewController: UIViewController {
     }
     
 
+    
     /*
     // MARK: - Navigation
 
